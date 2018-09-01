@@ -6,8 +6,8 @@ export default new Vuex.Store({
 		orderHistory: [],
 		ticketPrice: 1.1,
 		rows: 10,
-		cols: 12,
-		occupiedSeats: [{row:1,col:2}],
+		cols: 10,
+		occupiedSeats: [{row:1,col:2}, {row:5,col:2}, {row:5, col:3}],
 		selectedSeats: [],
 	},
 	mutations: {

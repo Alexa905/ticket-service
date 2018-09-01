@@ -31,7 +31,7 @@
         border-radius: 3px;
         margin-left: 10px;
         font-size: 10px;
-        background: white;
+        background: #adffbf;
         color: black;
         opacity: 0.4;
     }

@@ -31,7 +31,7 @@
 
     .seat-place:not(.occupied) {
         cursor: pointer;
-        background: white;
+        background: #adffbf;
         color: black;
         opacity: 0.4;
 
@@ -43,7 +43,7 @@
 
     .seat-place.occupied {
         cursor: default;
-        background: hsl(9, 88%, 41%);
+        background: hsl(358, 100%, 45%);
     }
 
     .seat-place.selected {
